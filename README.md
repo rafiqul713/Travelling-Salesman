@@ -1,4 +1,7 @@
 # Travelling salesman problem
+The Travelling Salesman Problem (TSP) is the problem of finding the shortest and most efficient route for a person to take given a list of specific destinations. It is a well-known algorithmic problem in the fields of computer science. This problem can be solved using the Graph data structures. This problem is handled at much higher complexity in modern world with lots of maps and mapping applications.
+
+
 1. Create and display a simple graph with N nodes where the nodes.
 2. Display a help menu and the user can interact with that.
 3. Add new node in the graph and asking user to input distances to
